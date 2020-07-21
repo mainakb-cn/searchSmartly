@@ -1,0 +1,31 @@
+{
+    "price_chart": [{
+    "lead_code": "B",
+    "Name": "Buy",
+    "Price": "10"
+    },
+    {
+    "lead_code": "R",
+    "Name": "Rent",
+    "Price": "5"
+    },
+    {
+    "lead_code": "ST",
+    "Name": "Short Term",
+    "Price": "2.5"
+    }
+    ],
+    "bonus_chart": [{
+    "lead": "B",
+    "quantity_more_than": 5,
+    "bonus_amount": 10,
+    "type": "amount"
+    },
+    {
+    "lead": "R",
+    "quantity_more_than": 8,
+    "bonus_amount": 10,
+    "type": "percent"
+    }
+    ]
+}
