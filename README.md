@@ -1,7 +1,7 @@
 ## This consist of three files for the entire test application
-    ### 1. priceRules.py
-    ### 2. calculator.py
-    ### 3. driver.py
+    ###### priceRules.py
+    ###### calculator.py
+    ###### driver.py
     
 ## The python code is written on python version 3.8.2
 
